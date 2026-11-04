@@ -1,0 +1,6 @@
+{
+  "name": "Smart Room Ruang Tunggu SPKLU UP3",
+  "description": "Dashboard monitoring, pemrosesan data, prediktor, dan AI analitik untuk Smart Room Ruang Tunggu SPKLU di UP3 berbasis Home Assistant (Kelompok 9 - Gedung dan Rumah Cerdas).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
